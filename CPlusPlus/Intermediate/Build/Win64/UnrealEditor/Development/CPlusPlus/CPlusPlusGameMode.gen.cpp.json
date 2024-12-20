@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\cplusplusgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\cpluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h",
+            "d:\\unreal projects\\cplusplus\\source\\cplusplus\\cplusplusgamemode.h",
+            "e:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\cplusplusgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

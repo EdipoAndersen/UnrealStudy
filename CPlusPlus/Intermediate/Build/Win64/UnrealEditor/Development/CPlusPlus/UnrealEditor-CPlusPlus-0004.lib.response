@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CPlusPlus-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\CPlusPlusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\BTTask_FindRandomLocation.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlus.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlusCharacter.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlusGameMode.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC2.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC_AIController.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\BTTask_FindRandomLocation.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlus.init.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlusCharacter.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\CPlusPlusGameMode.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC2.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\NPC_AIController.gen.cpp.obj"
+"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\Default.rc2.res"
+/OUT:"D:\Unreal Projects\CPlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\CPlusPlus\UnrealEditor-CPlusPlus-0004.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Y_GDR_Shooter",
+			"Path": "D:\\Unreal Projects\\Y_GDR_Shooter\\Source\\Y_GDR_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Y_GDR_ShooterEditor",
+			"Path": "D:\\Unreal Projects\\Y_GDR_Shooter\\Source\\Y_GDR_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

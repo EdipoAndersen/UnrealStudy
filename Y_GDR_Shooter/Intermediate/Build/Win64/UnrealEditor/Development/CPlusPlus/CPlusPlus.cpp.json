@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\y_gdr_shooter\\source\\cplusplus\\cplusplus.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\y_gdr_shooter\\intermediate\\build\\win64\\cpluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\y_gdr_shooter\\intermediate\\build\\win64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h",
+            "d:\\unreal projects\\y_gdr_shooter\\source\\cplusplus\\cplusplus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

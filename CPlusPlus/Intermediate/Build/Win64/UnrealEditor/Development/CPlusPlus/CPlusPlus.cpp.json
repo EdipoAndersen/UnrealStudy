@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\cplusplus\\source\\cplusplus\\cplusplus.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\cpluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h",
+            "d:\\unreal projects\\cplusplus\\source\\cplusplus\\cplusplus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

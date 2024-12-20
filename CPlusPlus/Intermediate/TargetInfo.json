@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPlusPlus",
+			"Path": "D:\\Unreal Projects\\CPlusPlus\\Source\\CPlusPlus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPlusPlusEditor",
+			"Path": "D:\\Unreal Projects\\CPlusPlus\\Source\\CPlusPlusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

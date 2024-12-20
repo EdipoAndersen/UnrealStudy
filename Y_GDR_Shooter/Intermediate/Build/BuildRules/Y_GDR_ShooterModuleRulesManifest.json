@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Y_GDR_Shooter\\Source\\Y_GDR_Shooter\\CPlusPlus.Build.cs",
+		"D:\\Unreal Projects\\Y_GDR_Shooter\\Source\\Y_GDR_Shooter.Target.cs",
+		"D:\\Unreal Projects\\Y_GDR_Shooter\\Source\\Y_GDR_ShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
